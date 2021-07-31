@@ -1,0 +1,17 @@
+{
+  "name": "my-project",
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.0.0-beta.3.1",
+    "@parcel/transformer-vue": "2.0.0-beta.3.1",
+    "@vue/compiler-sfc": "^3.1.5",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^7.0.0",
+    "parcel": "^2.0.0-beta.3.1",
+    "vue": "^3.1.5"
+  }
+}
