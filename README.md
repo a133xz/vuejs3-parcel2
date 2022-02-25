@@ -1,4 +1,4 @@
-# Vuejs 3 + Parcel 2
+# Vuejs 3 + Parcel 2
 
 This repository was made after finding the docs for creating new projects with Vuejs 3 and Parcel 2 a little confusing.
 
